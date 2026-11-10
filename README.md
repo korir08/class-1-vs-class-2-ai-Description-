@@ -1,30 +1,25 @@
-# class-1-vs-class-2-ai-Description-
-An AI model trained to distinguish between class 1 and a class 2 using Teachable Machine.
-Soccer Ball vs Tennis Ball AI
+ Class 1 vs Class 2 – AI Image Classification
 
 About the Project
 
-This is a beginner AI image classification project created using Google Teachable Machine.
-
-The model was trained to identify two different objects:
-
-- class 1
-- class 2
+This is a beginner AI project created using Google Teachable Machine. I uploaded images into two different classes and trained a model to recognise and distinguish between them.
 
 How It Works
 
-The model learns from images provided during training and uses the patterns in those images to identify whether an object is a soccer ball or a tennis ball.
+The model learns from the images provided during training and uses the patterns it identifies to classify new images.
 
 Tools Used
 
 - Google Teachable Machine
-- AI and Machine Learning
+- Artificial Intelligence
 - Image Classification
 
 What I Learned
 
-Through this project, I learned how AI models are trained using images, recognise patterns and make predictions.
-
+I learned how to train an AI model using images and how it recognises patterns to make predictions. It was interesting to see how AI can learn from examples.
 Model Link
 
-"View My Trained AI Model" (PASTE_YOUR_TEACHABLE_MACHINE_LINK_HERE)
+"View My Trained AI Model" (PASTE_YOUR_MODEL_LINK_HERE)
+Model Link
+
+"View My Trained AI Model" (PASTE_YOUR_MODEL_LINK_HERE)
