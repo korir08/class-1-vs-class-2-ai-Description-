@@ -19,7 +19,7 @@ What I Learned
 I learned how to train an AI model using images and how it recognises patterns to make predictions. It was interesting to see how AI can learn from examples.
 Model Link
 
-"View My Trained AI Model" ( https://teachablemachine.withgoogle.com/models/56CpnAPxk/)
+"View My Trained AI Model" (  https://teachablemachine.withgoogle.com/models/[...])
 Model Link
 
 "View My Trained AI Model" (PASTE_YOUR_MODEL_LINK_HERE)
